@@ -2,7 +2,6 @@
 
 
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on creating abstract arts with Photoshop
 - 🌱 I’m currently learning Html and C++ c
